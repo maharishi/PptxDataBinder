@@ -9,6 +9,7 @@ namespace PptxBinder
 			var p = new Processor();
 			p.Process();
 			Console.Read( );
+
 		}
 	}
 }
